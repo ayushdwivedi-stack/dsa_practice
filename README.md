@@ -1,13 +1,13 @@
-﻿ # 🚀 DSA Practice (C++)
+﻿ # DSA Practice (C++)
 
 This repository contains my Data Structures and Algorithms practice for placements.
 
-## 📂 Folder Structure
+##  Folder Structure
 
 * `sorting/` → Sorting algorithms
 * `arrays/` → Array problems (coming soon)
 
-## 🧠 Algorithms Implemented
+##  Algorithms Implemented
 
 * Merge Sort
 * Quick Sort
@@ -16,11 +16,11 @@ This repository contains my Data Structures and Algorithms practice for placemen
 
 * C++
 
-## 🎯 Goal
+##  Goal
 
 To strengthen problem-solving skills and prepare for technical interviews.
 
 ---
 
-⭐ More problems coming soon...
+More problems coming soon...
 
