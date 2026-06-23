@@ -1,46 +1,41 @@
-﻿ # DSA Practice (C++)
+# LeetCode Solutions
 
-This repository contains my Data Structures and Algorithms practice for placements.
+A curated collection of LeetCode solutions covering fundamental and advanced Data Structures & Algorithms concepts.
 
-##  Folder Structure
+This repository serves as a structured archive of problem-solving practice, focusing on efficient algorithms, clean implementations, and continuous improvement in coding skills.
 
-* `sorting/` → Sorting algorithms
-* `arrays/` → Array problems (coming soon)
+## Objectives
 
-##  Algorithms Implemented
+- Strengthen problem-solving abilities
+- Master core Data Structures & Algorithms
+- Practice algorithmic thinking and optimization
+- Prepare for technical interviews and competitive programming
+- Maintain a consistent record of solved problems
 
-* Merge Sort
-* Quick Sort
+## Topics Covered
 
-## ⚡ Language
-
-* C++
-
-##  Goal
-
-To strengthen problem-solving skills and prepare for technical interviews.
-
----
-
-More problems coming soon...
+- Arrays
+- Strings
+- Linked Lists
+- Stacks & Queues
+- Binary Search
+- Sliding Window
+- Two Pointers
+- Recursion & Backtracking
+- And Counting
 
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
-## Stack
-|  |
-| ------- |
-| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
-## Queue
-|  |
-| ------- |
-| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
-## Simulation
-|  |
-| ------- |
-| [1700-number-of-students-unable-to-eat-lunch](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1700-number-of-students-unable-to-eat-lunch) |
-<!---LeetCode Topics End-->
+## Repository Structure (SOON)
+
+```text
+LeetCode/
+├── Arrays/
+├── Strings/
+├── LinkedList/
+├── Stack/
+├── Queue/
+├── BinarySearch/
+├── Trees/
+├── Graphs/
+├── DynamicProgramming/
+└── ...
