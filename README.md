@@ -62,4 +62,12 @@ LeetCode/
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1346-check-if-n-and-its-double-exist) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
