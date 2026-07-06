@@ -50,6 +50,7 @@ LeetCode/
 | [0946-validate-stack-sequences](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0946-validate-stack-sequences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1441-build-an-array-with-stack-operations) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Hash Table
@@ -65,6 +66,7 @@ LeetCode/
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Sorting
 |  |
 | ------- |
@@ -116,6 +118,7 @@ LeetCode/
 | [0735-asteroid-collision](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1441-build-an-array-with-stack-operations) |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2390-removing-stars-from-a-string](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
@@ -135,5 +138,6 @@ LeetCode/
 ## Prefix Sum
 |  |
 | ------- |
+| [1894-find-the-student-that-will-replace-the-chalk](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 <!---LeetCode Topics End-->
