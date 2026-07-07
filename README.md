@@ -53,6 +53,7 @@ LeetCode/
 | [1346-check-if-n-and-its-double-exist](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Hash Table
@@ -137,6 +138,7 @@ LeetCode/
 ## Matrix
 |  |
 | ------- |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Prefix Sum
