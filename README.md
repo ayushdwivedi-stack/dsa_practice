@@ -59,6 +59,7 @@ LeetCode/
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2270-number-of-ways-to-split-array) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2559-count-vowel-strings-in-ranges) |
 | [3169-count-days-without-meetings](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3169-count-days-without-meetings) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
@@ -192,8 +193,13 @@ LeetCode/
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 ## Counting
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1684-count-the-number-of-consistent-strings) |
+## Brainteaser
+|  |
+| ------- |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
