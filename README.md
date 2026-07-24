@@ -108,6 +108,7 @@ LeetCode/
 | [0020-valid-parentheses](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0232-implement-queue-using-stacks](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0901-online-stock-span) |
@@ -123,6 +124,7 @@ LeetCode/
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -202,4 +204,8 @@ LeetCode/
 |  |
 | ------- |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
