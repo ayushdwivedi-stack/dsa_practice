@@ -47,6 +47,7 @@ LeetCode/
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0739-daily-temperatures) |
 | [0896-monotonic-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0896-monotonic-array) |
@@ -70,6 +71,7 @@ LeetCode/
 |  |
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0496-next-greater-element-i) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Two Pointers
@@ -112,6 +114,7 @@ LeetCode/
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0901-online-stock-span) |
@@ -133,6 +136,7 @@ LeetCode/
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0901-online-stock-span) |
 ## Data Stream
