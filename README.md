@@ -93,6 +93,7 @@ LeetCode/
 | [1346-check-if-n-and-its-double-exist](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3169-count-days-without-meetings](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3169-count-days-without-meetings) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## String
 |  |
@@ -107,6 +108,7 @@ LeetCode/
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2390-removing-stars-from-a-string](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2390-removing-stars-from-a-string) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2559-count-vowel-strings-in-ranges) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
 | ------- |
@@ -224,4 +226,8 @@ LeetCode/
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
