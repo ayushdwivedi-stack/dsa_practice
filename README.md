@@ -108,6 +108,7 @@ LeetCode/
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2390-removing-stars-from-a-string](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2390-removing-stars-from-a-string) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2559-count-vowel-strings-in-ranges) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
 |  |
@@ -163,6 +164,7 @@ LeetCode/
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
 | ------- |
@@ -187,6 +189,7 @@ LeetCode/
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Dynamic Programming
 |  |
 | ------- |
