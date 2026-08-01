@@ -45,6 +45,7 @@ LeetCode/
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0027-remove-element) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0455-assign-cookies) |
@@ -80,6 +81,7 @@ LeetCode/
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0027-remove-element) |
 | [0455-assign-cookies](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0455-assign-cookies) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
