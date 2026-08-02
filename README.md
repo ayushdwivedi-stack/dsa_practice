@@ -52,6 +52,7 @@ LeetCode/
 | [0455-assign-cookies](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0739-daily-temperatures) |
 | [0896-monotonic-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0896-monotonic-array) |
@@ -129,6 +130,7 @@ LeetCode/
 | [0232-implement-queue-using-stacks](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0901-online-stock-span) |
@@ -161,6 +163,7 @@ LeetCode/
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0946-validate-stack-sequences) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1441-build-an-array-with-stack-operations) |
