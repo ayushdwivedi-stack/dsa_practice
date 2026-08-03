@@ -63,6 +63,7 @@ LeetCode/
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1920-build-array-from-permutation](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1929-concatenation-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -171,6 +172,7 @@ LeetCode/
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1929-concatenation-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
