@@ -57,6 +57,7 @@ LeetCode/
 | [0739-daily-temperatures](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0739-daily-temperatures) |
 | [0896-monotonic-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0896-monotonic-array) |
 | [0946-validate-stack-sequences](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0946-validate-stack-sequences) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -207,6 +208,7 @@ LeetCode/
 | ------- |
 | [0066-plus-one](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2221-find-triangular-sum-of-an-array) |
