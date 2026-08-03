@@ -60,6 +60,7 @@ LeetCode/
 | [1346-check-if-n-and-its-double-exist](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1441-build-an-array-with-stack-operations](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1480-running-sum-of-1d-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1920-build-array-from-permutation](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1920-build-array-from-permutation) |
@@ -196,6 +197,7 @@ LeetCode/
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1480-running-sum-of-1d-array) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [2270-number-of-ways-to-split-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2270-number-of-ways-to-split-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2559-count-vowel-strings-in-ranges) |
