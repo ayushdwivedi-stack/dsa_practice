@@ -62,6 +62,7 @@ LeetCode/
 | [1441-build-an-array-with-stack-operations](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 | [1920-build-array-from-permutation](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1920-build-array-from-permutation) |
@@ -85,6 +86,7 @@ LeetCode/
 | [0442-find-all-duplicates-in-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0496-next-greater-element-i) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1512-number-of-good-pairs](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3731-find-missing-elements](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -215,6 +217,7 @@ LeetCode/
 | [0066-plus-one](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1512-number-of-good-pairs) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2197-replace-non-coprime-numbers-in-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2197-replace-non-coprime-numbers-in-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -244,6 +247,7 @@ LeetCode/
 ## Counting
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Brainteaser
 |  |
