@@ -56,6 +56,7 @@ LeetCode/
 | [0735-asteroid-collision](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0739-daily-temperatures) |
 | [0896-monotonic-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0896-monotonic-array) |
+| [0905-sort-array-by-parity](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0905-sort-array-by-parity) |
 | [0946-validate-stack-sequences](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0946-validate-stack-sequences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -94,6 +95,7 @@ LeetCode/
 | ------- |
 | [0027-remove-element](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0027-remove-element) |
 | [0455-assign-cookies](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0455-assign-cookies) |
+| [0905-sort-array-by-parity](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -108,6 +110,7 @@ LeetCode/
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0455-assign-cookies) |
+| [0905-sort-array-by-parity](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
