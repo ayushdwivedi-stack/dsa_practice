@@ -108,6 +108,7 @@ LeetCode/
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0278-first-bad-version) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Sorting
@@ -277,4 +278,8 @@ LeetCode/
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
