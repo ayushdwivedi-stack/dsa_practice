@@ -78,6 +78,7 @@ LeetCode/
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3169-count-days-without-meetings](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3169-count-days-without-meetings) |
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -196,6 +197,7 @@ LeetCode/
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2390-removing-stars-from-a-string) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Greedy
 |  |
 | ------- |
