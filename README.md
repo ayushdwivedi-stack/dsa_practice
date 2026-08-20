@@ -87,6 +87,7 @@ LeetCode/
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0141-linked-list-cycle) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0496-next-greater-element-i) |
@@ -100,6 +101,7 @@ LeetCode/
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0027-remove-element) |
+| [0141-linked-list-cycle](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0141-linked-list-cycle) |
 | [0455-assign-cookies](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -284,4 +286,12 @@ LeetCode/
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0278-first-bad-version) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
