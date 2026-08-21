@@ -211,6 +211,7 @@ LeetCode/
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0203-remove-linked-list-elements) |
 | [1106-parsing-a-boolean-expression](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1106-parsing-a-boolean-expression) |
 ## Matrix
 |  |
@@ -290,6 +291,7 @@ LeetCode/
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0203-remove-linked-list-elements) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
