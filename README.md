@@ -83,6 +83,7 @@ LeetCode/
 | [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -97,6 +98,7 @@ LeetCode/
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
