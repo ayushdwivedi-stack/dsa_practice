@@ -53,6 +53,7 @@ LeetCode/
 | [0455-assign-cookies](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0503-next-greater-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0739-daily-temperatures) |
@@ -123,6 +124,7 @@ LeetCode/
 | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -236,6 +238,7 @@ LeetCode/
 | ------- |
 | [0066-plus-one](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0628-maximum-product-of-three-numbers](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1512-number-of-good-pairs) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
