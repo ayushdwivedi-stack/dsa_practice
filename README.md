@@ -86,6 +86,7 @@ LeetCode/
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3731-find-missing-elements) |
+| [4020-elevator-requests-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/4020-elevator-requests-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -206,6 +207,7 @@ LeetCode/
 | [2221-find-triangular-sum-of-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2390-removing-stars-from-a-string](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [4020-elevator-requests-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/4020-elevator-requests-i) |
 ## Greedy
 |  |
 | ------- |
