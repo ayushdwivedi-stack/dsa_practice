@@ -95,6 +95,7 @@ LeetCode/
 | [0442-find-all-duplicates-in-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0496-next-greater-element-i) |
+| [0771-jewels-and-stones](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -140,6 +141,7 @@ LeetCode/
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0071-simplify-path) |
+| [0771-jewels-and-stones](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1106-parsing-a-boolean-expression](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1106-parsing-a-boolean-expression) |
