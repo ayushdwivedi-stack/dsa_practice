@@ -140,6 +140,7 @@ LeetCode/
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0071-simplify-path) |
 | [0771-jewels-and-stones](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
