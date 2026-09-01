@@ -48,6 +48,7 @@ LeetCode/
 | [0027-remove-element](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -93,6 +94,7 @@ LeetCode/
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0496-next-greater-element-i) |
@@ -126,6 +128,7 @@ LeetCode/
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0169-majority-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -281,6 +284,7 @@ LeetCode/
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Brainteaser
@@ -315,4 +319,12 @@ LeetCode/
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0141-linked-list-cycle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
