@@ -231,6 +231,7 @@ LeetCode/
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0203-remove-linked-list-elements) |
+| [0326-power-of-three](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0326-power-of-three) |
 | [1106-parsing-a-boolean-expression](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1106-parsing-a-boolean-expression) |
 ## Matrix
 |  |
@@ -251,6 +252,7 @@ LeetCode/
 | ------- |
 | [0066-plus-one](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0326-power-of-three](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1512-number-of-good-pairs) |
