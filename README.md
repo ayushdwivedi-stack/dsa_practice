@@ -88,6 +88,7 @@ LeetCode/
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [4020-elevator-requests-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/4020-elevator-requests-i) |
 ## Hash Table
 |  |
@@ -258,6 +259,7 @@ LeetCode/
 | [2221-find-triangular-sum-of-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
