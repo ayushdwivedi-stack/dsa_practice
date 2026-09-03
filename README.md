@@ -50,6 +50,7 @@ LeetCode/
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0455-assign-cookies) |
@@ -97,6 +98,7 @@ LeetCode/
 | [0141-linked-list-cycle](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0496-next-greater-element-i) |
@@ -115,6 +117,7 @@ LeetCode/
 | [0141-linked-list-cycle](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -125,12 +128,14 @@ LeetCode/
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1894-find-the-student-that-will-replace-the-chalk](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1894-find-the-student-that-will-replace-the-chalk) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0628-maximum-product-of-three-numbers) |
