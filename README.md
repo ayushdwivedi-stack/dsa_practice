@@ -161,6 +161,7 @@ LeetCode/
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1106-parsing-a-boolean-expression](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1106-parsing-a-boolean-expression) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -233,6 +234,7 @@ LeetCode/
 | ------- |
 | [0455-assign-cookies](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0455-assign-cookies) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -300,6 +302,7 @@ LeetCode/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0169-majority-element) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1512-number-of-good-pairs](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Brainteaser
