@@ -265,6 +265,7 @@ LeetCode/
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0326-power-of-three](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1512-number-of-good-pairs) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -346,4 +347,8 @@ LeetCode/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0169-majority-element) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
