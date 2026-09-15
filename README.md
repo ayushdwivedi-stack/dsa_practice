@@ -14,15 +14,18 @@ This repository serves as a structured archive of problem-solving practice, focu
 
 ## Topics Covered
 
-- Arrays
-- Strings
-- Linked Lists
-- Stacks & Queues
-- Binary Search
-- Sliding Window
-- Two Pointers
-- Recursion & Backtracking
-- And Counting
+-## DSA Topics Covered
+
+* Arrays
+* Strings
+* Linked Lists
+* Stacks & Queues
+* Binary Search
+* Sliding Window
+* Two Pointers
+* Recursion & Backtracking
+* Counting & Hashing
+
 
 
 ## Repository Structure (SOON)
