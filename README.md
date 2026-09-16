@@ -67,4 +67,12 @@ LeetCode/
 |  |
 | ------- |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0367-valid-perfect-square) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
