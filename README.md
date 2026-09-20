@@ -71,6 +71,7 @@ LeetCode/
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +85,7 @@ LeetCode/
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0367-valid-perfect-square) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## String
 |  |
 | ------- |
@@ -120,4 +122,8 @@ LeetCode/
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
