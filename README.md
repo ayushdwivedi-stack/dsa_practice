@@ -91,6 +91,7 @@ LeetCode/
 | ------- |
 | [0412-fizz-buzz](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0412-fizz-buzz) |
 | [3498-reverse-degree-of-a-string](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3498-reverse-degree-of-a-string) |
+| [3794-reverse-string-prefix](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3794-reverse-string-prefix) |
 ## Simulation
 |  |
 | ------- |
@@ -114,6 +115,7 @@ LeetCode/
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [3794-reverse-string-prefix](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
 | ------- |
