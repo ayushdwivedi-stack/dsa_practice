@@ -72,6 +72,7 @@ LeetCode/
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1572-matrix-diagonal-sum](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1572-matrix-diagonal-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
@@ -126,6 +127,7 @@ LeetCode/
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1572-matrix-diagonal-sum) |
 ## Counting
 |  |
 | ------- |
