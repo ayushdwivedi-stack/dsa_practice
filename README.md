@@ -93,6 +93,7 @@ LeetCode/
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0412-fizz-buzz) |
 | [3498-reverse-degree-of-a-string](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3794-reverse-string-prefix) |
@@ -120,6 +121,7 @@ LeetCode/
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0392-is-subsequence) |
 | [3794-reverse-string-prefix](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
@@ -154,4 +156,8 @@ LeetCode/
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0292-nim-game) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
