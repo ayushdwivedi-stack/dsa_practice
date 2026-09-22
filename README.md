@@ -79,6 +79,7 @@ LeetCode/
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0412-fizz-buzz) |
 ## Binary Search
@@ -133,4 +134,24 @@ LeetCode/
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
