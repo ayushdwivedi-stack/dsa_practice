@@ -76,6 +76,7 @@ LeetCode/
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1572-matrix-diagonal-sum](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1572-matrix-diagonal-sum) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
 |  |
 | ------- |
@@ -83,6 +84,7 @@ LeetCode/
 | [0292-nim-game](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0412-fizz-buzz) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
