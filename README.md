@@ -80,6 +80,7 @@ LeetCode/
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0367-valid-perfect-square) |
@@ -104,6 +105,7 @@ LeetCode/
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0412-fizz-buzz) |
 | [3498-reverse-degree-of-a-string](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
@@ -168,4 +170,8 @@ LeetCode/
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0643-maximum-average-subarray-i) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
