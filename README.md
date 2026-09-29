@@ -120,6 +120,7 @@ LeetCode/
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0338-counting-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -169,6 +170,7 @@ LeetCode/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
