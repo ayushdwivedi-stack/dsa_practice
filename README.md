@@ -103,6 +103,7 @@ LeetCode/
 | [0392-is-subsequence](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0434-number-of-segments-in-a-string) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0551-student-attendance-record-i) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3498-reverse-degree-of-a-string) |
