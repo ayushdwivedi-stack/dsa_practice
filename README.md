@@ -125,6 +125,7 @@ LeetCode/
 | ------- |
 | [0268-missing-number](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0338-counting-bits) |
+| [0693-binary-number-with-alternating-bits](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0693-binary-number-with-alternating-bits) |
 ## Sorting
 |  |
 | ------- |
