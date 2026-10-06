@@ -106,6 +106,7 @@ LeetCode/
 | [0434-number-of-segments-in-a-string](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0434-number-of-segments-in-a-string) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0551-student-attendance-record-i) |
+| [0844-backspace-string-compare](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3498-reverse-degree-of-a-string) |
@@ -115,6 +116,7 @@ LeetCode/
 | ------- |
 | [0258-add-digits](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0412-fizz-buzz) |
+| [0844-backspace-string-compare](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0844-backspace-string-compare) |
 | [3498-reverse-degree-of-a-string](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
@@ -140,6 +142,7 @@ LeetCode/
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0392-is-subsequence) |
+| [0844-backspace-string-compare](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0844-backspace-string-compare) |
 | [3794-reverse-string-prefix](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3794-reverse-string-prefix) |
 ## Greedy
 |  |
@@ -192,6 +195,7 @@ LeetCode/
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
