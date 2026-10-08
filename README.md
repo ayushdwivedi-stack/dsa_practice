@@ -87,6 +87,7 @@ LeetCode/
 | [0292-nim-game](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0412-fizz-buzz) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2235-add-two-integers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
