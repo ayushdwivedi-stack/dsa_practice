@@ -73,6 +73,7 @@ LeetCode/
 | [0643-maximum-average-subarray-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1051-height-checker](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1051-height-checker) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -143,6 +144,7 @@ LeetCode/
 | [0268-missing-number](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0414-third-maximum-number) |
+| [1051-height-checker](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1051-height-checker) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Two Pointers
 |  |
@@ -224,4 +226,12 @@ LeetCode/
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2778-sum-of-squares-of-special-elements) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
