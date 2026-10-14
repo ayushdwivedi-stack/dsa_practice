@@ -96,6 +96,7 @@ LeetCode/
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2235-add-two-integers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -160,6 +161,7 @@ LeetCode/
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
