@@ -81,6 +81,7 @@ LeetCode/
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
@@ -133,6 +134,7 @@ LeetCode/
 | [0268-missing-number](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0575-distribute-candies](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0575-distribute-candies) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -239,4 +241,12 @@ LeetCode/
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1051-height-checker) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
