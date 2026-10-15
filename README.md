@@ -66,6 +66,7 @@ LeetCode/
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0414-third-maximum-number) |
@@ -138,6 +139,7 @@ LeetCode/
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0338-counting-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0693-binary-number-with-alternating-bits) |
@@ -249,4 +251,8 @@ LeetCode/
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
