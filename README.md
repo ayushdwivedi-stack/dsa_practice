@@ -66,6 +66,7 @@ LeetCode/
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0268-missing-number) |
@@ -256,6 +257,7 @@ LeetCode/
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
