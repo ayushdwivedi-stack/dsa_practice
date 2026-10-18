@@ -1,38 +1,17 @@
 class Solution {
-private:
-
-bool isElementpresent(vector<int> nums,int k){
-    for(int i = 0; i < nums.size(); i++){
-        if(nums[i] == k){
-            return true;
-        }
-    }
-    return false;
-}
 public:
     vector<int> findMissingElements(vector<int>& nums) {
-       int n = nums.size();
-       vector<int> ans;
-    
-        int  min = nums[0];
-        int max = nums[0];
-
-        for(int i = 1; i < n; i++){
-            if(nums[i] <= min){
-                min = nums[i];
-            }else if(nums[i] > max){
-                max = nums[i];
-            }
+        vector<int>ans;
+        sort(nums.begin(),nums.end());
+        int n=nums.size();
+        int j=0;
+        for(int i=nums[0];i<nums[n-1];i++){
+            if(j<nums[n-1] && nums[j]!=i)
+            ans.push_back(i);
+            else 
+            j++;
+           
         }
-
-        for(int i = min + 1; i < max; i++){
-            if(isElementpresent(nums,i)){
-                continue;
-            }else{
-                ans.push_back(i);
-            }
-        }
-       
         return ans;
     }
 };
