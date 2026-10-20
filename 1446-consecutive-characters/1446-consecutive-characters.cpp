@@ -1,23 +1,23 @@
 class Solution {
 public:
     int maxPower(string s) {
-         int count = 1;
-         int maxCount =1;
-         for(int i =0; i< s.size() ; i++)
-         {
-            if(s[i] == s[i+1])
-            {
-                count++;
-            }
-            else
-            {
-                count =1;
-                continue;
-            }
-            maxCount = max(maxCount , count);
-            
-         }
-         return maxCount;
-        
+      int n=s.size();
+      if(n==1 || n==0)
+      return n;
+      int count=1;
+      int max=0;
+      for(int i=1;i<n;i++){
+        if(s[i]==s[i-1] ){
+        count++;
+       }
+       else {
+       count=1;
+
+       }
+       if(max<count){
+        max=count;
+       }
+       }
+       return max;
     }
 };
