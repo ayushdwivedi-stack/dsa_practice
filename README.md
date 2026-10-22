@@ -77,6 +77,7 @@ LeetCode/
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1051-height-checker](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1122-relative-sort-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -140,6 +141,7 @@ LeetCode/
 | [0268-missing-number](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0575-distribute-candies](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0575-distribute-candies) |
+| [1122-relative-sort-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1122-relative-sort-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3731-find-missing-elements](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
@@ -158,6 +160,7 @@ LeetCode/
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0414-third-maximum-number) |
 | [1051-height-checker](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1122-relative-sort-array) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3731-find-missing-elements) |
@@ -247,10 +250,12 @@ LeetCode/
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1122-relative-sort-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -265,4 +270,8 @@ LeetCode/
 | [0046-permutations](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0090-subsets-ii) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
