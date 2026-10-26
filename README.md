@@ -104,6 +104,7 @@ LeetCode/
 | [0412-fizz-buzz](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1486-xor-operation-in-an-array) |
 | [1518-water-bottles](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1518-water-bottles) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2235-add-two-integers) |
@@ -159,6 +160,7 @@ LeetCode/
 | [0338-counting-bits](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0338-counting-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0693-binary-number-with-alternating-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1486-xor-operation-in-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1486-xor-operation-in-an-array) |
 ## Sorting
 |  |
 | ------- |
