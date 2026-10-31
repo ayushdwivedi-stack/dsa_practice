@@ -102,6 +102,7 @@ LeetCode/
 | [0292-nim-game](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0412-fizz-buzz) |
+| [1025-divisor-game](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1025-divisor-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1486-xor-operation-in-an-array) |
@@ -201,6 +202,7 @@ LeetCode/
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1025-divisor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -209,6 +211,7 @@ LeetCode/
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1025-divisor-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -217,11 +220,13 @@ LeetCode/
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1025-divisor-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0392-is-subsequence) |
+| [1025-divisor-game](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1025-divisor-game) |
 ## Sliding Window
 |  |
 | ------- |
