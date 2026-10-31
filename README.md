@@ -103,6 +103,7 @@ LeetCode/
 | [0367-valid-perfect-square](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0412-fizz-buzz) |
 | [1025-divisor-game](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1025-divisor-game) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1486-xor-operation-in-an-array) |
@@ -131,6 +132,7 @@ LeetCode/
 | [0551-student-attendance-record-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0551-student-attendance-record-i) |
 | [0844-backspace-string-compare](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1446-consecutive-characters](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1446-consecutive-characters) |
 | [1556-thousand-separator](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1556-thousand-separator) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -252,10 +254,12 @@ LeetCode/
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Enumeration
 |  |
