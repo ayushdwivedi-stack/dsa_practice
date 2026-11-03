@@ -75,6 +75,7 @@ LeetCode/
 | [0414-third-maximum-number](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -159,6 +160,7 @@ LeetCode/
 | ------- |
 | [0268-missing-number](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0575-distribute-candies) |
 | [1122-relative-sort-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1122-relative-sort-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -306,6 +308,7 @@ LeetCode/
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0560-subarray-sum-equals-k) |
 ## Memoization
 |  |
 | ------- |
