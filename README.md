@@ -95,6 +95,7 @@ LeetCode/
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3731-find-missing-elements) |
