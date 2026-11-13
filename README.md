@@ -86,6 +86,7 @@ LeetCode/
 | [1313-decompress-run-length-encoded-list](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1313-decompress-run-length-encoded-list) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1572-matrix-diagonal-sum](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1572-matrix-diagonal-sum) |
@@ -249,6 +250,7 @@ LeetCode/
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0643-maximum-average-subarray-i) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Number Theory
 |  |
 | ------- |
@@ -314,6 +316,7 @@ LeetCode/
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0560-subarray-sum-equals-k) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Memoization
 |  |
 | ------- |
