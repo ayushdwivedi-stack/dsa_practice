@@ -89,6 +89,7 @@ LeetCode/
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1572-matrix-diagonal-sum](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -119,6 +120,7 @@ LeetCode/
 | [1486-xor-operation-in-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1486-xor-operation-in-an-array) |
 | [1518-water-bottles](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1518-water-bottles) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2235-add-two-integers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -246,6 +248,7 @@ LeetCode/
 | [0392-is-subsequence](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0392-is-subsequence) |
 | [1025-divisor-game](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1137-n-th-tribonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -317,6 +320,7 @@ LeetCode/
 | [0238-product-of-array-except-self](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0560-subarray-sum-equals-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Memoization
 |  |
 | ------- |
