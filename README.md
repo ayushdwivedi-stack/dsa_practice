@@ -152,6 +152,7 @@ LeetCode/
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3794-reverse-string-prefix) |
 ## Simulation
