@@ -114,6 +114,7 @@ LeetCode/
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0507-perfect-number) |
+| [0728-self-dividing-numbers](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1137-n-th-tribonacci-number) |
