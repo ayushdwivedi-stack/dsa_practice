@@ -95,6 +95,7 @@ LeetCode/
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2057-smallest-index-with-equal-value) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -198,6 +199,7 @@ LeetCode/
 | [1122-relative-sort-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1122-relative-sort-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -213,6 +215,7 @@ LeetCode/
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
