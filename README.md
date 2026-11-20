@@ -67,6 +67,7 @@ LeetCode/
 |  |
 | ------- |
 | [0046-permutations](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0090-subsets-ii) |
 | [0238-product-of-array-except-self](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0238-product-of-array-except-self) |
@@ -194,6 +195,7 @@ LeetCode/
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0047-permutations-ii) |
 | [0268-missing-number](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0414-third-maximum-number) |
@@ -321,6 +323,7 @@ LeetCode/
 |  |
 | ------- |
 | [0046-permutations](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0090-subsets-ii) |
 ## Quicksort
