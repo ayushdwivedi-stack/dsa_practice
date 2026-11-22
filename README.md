@@ -156,6 +156,7 @@ LeetCode/
 | [1556-thousand-separator](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1556-thousand-separator) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
