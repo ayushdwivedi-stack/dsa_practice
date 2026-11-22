@@ -19,7 +19,7 @@ public:
         for(int i = 1; i<nums.size()-1 ; i++)
         {
              
-            if(2LL*nums[i] >= (nums[i-1]+nums[i+1])){
+            if(2*nums[i] >= (nums[i-1]+nums[i+1])){
                 count++;
             }
 
