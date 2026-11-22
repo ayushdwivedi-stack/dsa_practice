@@ -131,6 +131,7 @@ LeetCode/
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -224,6 +225,7 @@ LeetCode/
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Matrix
 |  |
 | ------- |
