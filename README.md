@@ -80,6 +80,7 @@ LeetCode/
 | [0575-distribute-candies](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1051-height-checker](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1122-relative-sort-array) |
@@ -202,6 +203,7 @@ LeetCode/
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1051-height-checker](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1122-relative-sort-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
