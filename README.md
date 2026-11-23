@@ -76,6 +76,7 @@ LeetCode/
 | [0414-third-maximum-number](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0506-relative-ranks](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0643-maximum-average-subarray-i) |
@@ -204,6 +205,7 @@ LeetCode/
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0506-relative-ranks](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0506-relative-ranks) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1051-height-checker](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1122-relative-sort-array) |
@@ -347,4 +349,8 @@ LeetCode/
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1137-n-th-tribonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
