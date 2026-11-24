@@ -193,6 +193,7 @@ LeetCode/
 | [0090-subsets-ii](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0338-counting-bits) |
+| [0476-number-complement](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0693-binary-number-with-alternating-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1486-xor-operation-in-an-array) |
