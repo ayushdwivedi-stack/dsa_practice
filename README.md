@@ -96,6 +96,7 @@ LeetCode/
 | [1572-matrix-diagonal-sum](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2057-smallest-index-with-equal-value) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -161,6 +162,7 @@ LeetCode/
 | [1556-thousand-separator](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1556-thousand-separator) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2129-capitalize-the-title](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2129-capitalize-the-title) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -185,6 +187,7 @@ LeetCode/
 | [0560-subarray-sum-equals-k](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0575-distribute-candies) |
 | [1122-relative-sort-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1122-relative-sort-array) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3731-find-missing-elements](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3731-find-missing-elements) |
@@ -242,6 +245,7 @@ LeetCode/
 ## Counting
 |  |
 | ------- |
+| [2053-kth-distinct-string-in-an-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Brainteaser
