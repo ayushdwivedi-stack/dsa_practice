@@ -122,6 +122,7 @@ LeetCode/
 | [0728-self-dividing-numbers](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0728-self-dividing-numbers) |
 | [1025-divisor-game](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1025-divisor-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1103-distribute-candies-to-people](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1103-distribute-candies-to-people) |
 | [1137-n-th-tribonacci-number](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -178,6 +179,7 @@ LeetCode/
 | [0258-add-digits](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0844-backspace-string-compare) |
+| [1103-distribute-candies-to-people](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1103-distribute-candies-to-people) |
 | [1518-water-bottles](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1518-water-bottles) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3360-stone-removal-game](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3360-stone-removal-game) |
