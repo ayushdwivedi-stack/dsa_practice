@@ -131,6 +131,7 @@ LeetCode/
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2520-count-the-digits-that-divide-a-number) |
+| [3360-stone-removal-game](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -178,6 +179,7 @@ LeetCode/
 | [0844-backspace-string-compare](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0844-backspace-string-compare) |
 | [1518-water-bottles](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1518-water-bottles) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
