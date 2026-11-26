@@ -84,6 +84,7 @@ LeetCode/
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1051-height-checker](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1051-height-checker) |
+| [1089-duplicate-zeros](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1122-relative-sort-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1313-decompress-run-length-encoded-list](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1313-decompress-run-length-encoded-list) |
@@ -228,6 +229,7 @@ LeetCode/
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0844-backspace-string-compare) |
+| [1089-duplicate-zeros](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1089-duplicate-zeros) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3794-reverse-string-prefix](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/3794-reverse-string-prefix) |
 ## Greedy
