@@ -73,6 +73,7 @@ LeetCode/
 | [0238-product-of-array-except-self](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0413-arithmetic-slices](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0414-third-maximum-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -282,12 +283,14 @@ LeetCode/
 | ------- |
 | [0338-counting-bits](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0392-is-subsequence) |
+| [0413-arithmetic-slices](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0413-arithmetic-slices) |
 | [1025-divisor-game](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1137-n-th-tribonacci-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Sliding Window
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0643-maximum-average-subarray-i) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Number Theory
