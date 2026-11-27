@@ -155,6 +155,7 @@ LeetCode/
 | [0290-word-pattern](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0392-is-subsequence) |
+| [0409-longest-palindrome](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0520-detect-capital) |
@@ -194,6 +195,7 @@ LeetCode/
 | [0290-word-pattern](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0383-ransom-note) |
+| [0409-longest-palindrome](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0575-distribute-candies) |
 | [1122-relative-sort-array](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1122-relative-sort-array) |
@@ -242,6 +244,7 @@ LeetCode/
 ## Greedy
 |  |
 | ------- |
+| [0409-longest-palindrome](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0409-longest-palindrome) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ayushdwivedi-stack/dsa_practice/tree/master/2567-minimum-score-by-changing-two-elements) |
